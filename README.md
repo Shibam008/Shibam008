@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently developing strong fundamentals in programming, data structures, software development and AI/ML with a keen interest in continuous learning and improvement.
+Hello, I am Shibam Sadhukhan, Currently developing strong fundamentals in programming, data structures, software development and AI/ML with a keen interest in continuous learning and improvement.
 
 
 ## 🌐 Socials:
